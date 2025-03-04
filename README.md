@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juyie%20Hwang&fontSize=90)
-![Juyie's github stats](https://github-readme-stats.vercel.app/api?username=Juyie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyie&layout=compact&theme=tokyonight)
 <!--
 **Juyie/Juyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
